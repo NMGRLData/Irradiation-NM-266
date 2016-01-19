@@ -1,0 +1,82 @@
+{
+    "aliquot": 3, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "", 
+    "commit": "bce2b787481c6d7590960486c3efd9c57c0631f3", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "23510", 
+    "increment": null, 
+    "irradiation": "NM-266", 
+    "irradiation_level": "C", 
+    "irradiation_position": 12, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "Sanidine", 
+    "measurement": "", 
+    "project": "J-Curve", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Irradiation-NM-266", 
+    "sample": "FC-2", 
+    "spec_sha": "63bdfa621e4e1990f6b1c8e455b6f6c457aa09ff", 
+    "timestamp": "2014-07-09T11:45:57", 
+    "username": "", 
+    "uuid": "6625fe0d-2976-4bb6-85c0-cc9ad0191e8e"
+}
